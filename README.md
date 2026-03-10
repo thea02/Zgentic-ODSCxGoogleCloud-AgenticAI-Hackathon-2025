@@ -4,8 +4,8 @@
 
 ## 🏆 Award & Recognition
 
-> 🥉 **3rd Place — ODSC x Google Cloud Agentic AI Hackathon 2025**
-> Team **Zgentic** placed in the **Top 3** out of **1,400+ participants** and **80 global submissions** at the Open Data Science Conference (ODSC) x Google Cloud Agentic AI Hackathon 2025. We're incredibly proud of this achievement and the recognition it brings to AI-driven solutions for children's development.
+🥉 **3rd Place — ODSC x Google Cloud Agentic AI Hackathon 2025**
+Team **Zgentic** placed in the **Top 3** out of **1,400+ participants** and **80 global submissions** at the Open Data Science Conference (ODSC) x Google Cloud Agentic AI Hackathon 2025.
 
 ---
 
